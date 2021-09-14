@@ -69,7 +69,7 @@ public class Parameters {
 	public static double lowloadofCpu = 0.2;
 
 	/**The weights of  energy consume*/
-	public static double wFactor = 0.6;
+	public static double wFactor = 0.5
 	
 	//-----------used in SAVE and ecoCloud---------------
 	/**The alpha parameter used in Eq.2 for migration definition*/
