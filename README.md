@@ -2,9 +2,9 @@
 -------------
 
 #### Overview:
-OSER is used for the online VM scheduling in Cloud, and this code is simulated based on the actual application scenarios.
+OSEC is used for the online VM scheduling in Cloud, and this code is simulated based on the actual application scenarios.
 In the simulator,  VMs that arrive randomly on behalf of different user requests can be assigned to different PMs by the scheduler in real time. 
-The simulator compares the performance of OSER and the other two scheduling algorithms in terms of energy consumption, execution costs and the number of used PMs under different conditions.
+The simulator compares the performance of OSEC and the other three scheduling algorithms in terms of energy consumption, execution costs, SLA violation and the number of VM migrations under different conditions.
 
 #### Directory structure:  
  1.cloud.algorithm: Different scheduling algorithms and the Scheduler interface;<br> 
